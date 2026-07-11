@@ -1,0 +1,33 @@
+{
+  "name": "Egor's Apps",
+  "identifier": "com.egorr.apps",
+  "sourceURL": "https://raw.githubusercontent.com/Abuddabi/one-sec-dist/main/source.json",
+  "apps": [
+    {
+      "name": "Breathe Pause",
+      "bundleIdentifier": "com.egorr.breathepause",
+      "developerName": "Egor",
+      "subtitle": "A mindful pause before you open distracting apps.",
+      "localizedDescription": "Breathe Pause shows a calm breathing screen when you open a chosen app (Instagram, TikTok, and more), giving you a moment to decide: open anyway, or change your mind. Free, personal One Sec alternative with support for multiple apps.",
+      "iconURL": "https://raw.githubusercontent.com/Abuddabi/one-sec-dist/main/icon.png",
+      "tintColor": "4FD1C5",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "version": "1.0.0",
+      "versionDate": "2026-07-10T00:00:00Z",
+      "versionDescription": "First release delivered through the SideStore source. Includes over-the-air (OTA) updates, so future tweaks arrive without reinstalling.",
+      "size": 9983599,
+      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.0/app-unsigned.ipa",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-07-10T00:00:00Z",
+          "localizedDescription": "First release delivered through the SideStore source. Includes over-the-air (OTA) updates, so future tweaks arrive without reinstalling.",
+          "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.0/app-unsigned.ipa",
+          "size": 9983599,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ]
+}
