@@ -13,12 +13,20 @@
       "tintColor": "4FD1C5",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "1.0.0",
-      "versionDate": "2026-07-10T00:00:00Z",
-      "versionDescription": "First release delivered through the SideStore source. Includes over-the-air (OTA) updates, so future tweaks arrive without reinstalling.",
-      "size": 9983599,
-      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.0/app-unsigned.ipa",
+      "version": "1.0.1",
+      "versionDate": "2026-07-11T19:59:02Z",
+      "versionDescription": "Groundwork for smoother interception (App Intent added). No visible changes yet.",
+      "size": 9988896,
+      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.1/app-unsigned.ipa",
       "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2026-07-11T19:59:02Z",
+          "localizedDescription": "Groundwork for smoother interception (App Intent added). No visible changes yet.",
+          "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.1/app-unsigned.ipa",
+          "size": 9988896,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "date": "2026-07-10T00:00:00Z",
