@@ -13,12 +13,20 @@
       "tintColor": "4FD1C5",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "1.0.6",
-      "versionDate": "2026-07-12T03:10:49Z",
-      "versionDescription": "Fix interception (fresh pending read + no double-reset), one-action setup guide",
-      "size": 9232467,
-      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.6/app-unsigned.ipa",
+      "version": "1.0.7",
+      "versionDate": "2026-07-12T03:37:24Z",
+      "versionDescription": "Fix interception: use textSync (was reading a Promise)",
+      "size": 9233496,
+      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.7/app-unsigned.ipa",
       "versions": [
+        {
+          "version": "1.0.7",
+          "date": "2026-07-12T03:37:24Z",
+          "localizedDescription": "Fix interception: use textSync (was reading a Promise)",
+          "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.7/app-unsigned.ipa",
+          "size": 9233496,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.0.6",
           "date": "2026-07-12T03:10:49Z",
