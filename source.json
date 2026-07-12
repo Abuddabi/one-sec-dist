@@ -13,12 +13,20 @@
       "tintColor": "4FD1C5",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "1.0.11",
-      "versionDate": "2026-07-12T06:47:16Z",
-      "versionDescription": "Collapse to home after Changed my mind; installed-only app picker; fixes.",
-      "size": 9236833,
-      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.11/app-unsigned.ipa",
+      "version": "1.0.12",
+      "versionDate": "2026-07-12T07:25:35Z",
+      "versionDescription": "Breathe in AND out before the buttons appear; faster collapse; OTA enabled.",
+      "size": 9236649,
+      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.12/app-unsigned.ipa",
       "versions": [
+        {
+          "version": "1.0.12",
+          "date": "2026-07-12T07:25:35Z",
+          "localizedDescription": "Breathe in AND out before the buttons appear; faster collapse; OTA enabled.",
+          "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.12/app-unsigned.ipa",
+          "size": 9236649,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.11",
           "date": "2026-07-12T06:47:16Z",
