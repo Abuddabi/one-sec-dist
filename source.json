@@ -13,12 +13,20 @@
       "tintColor": "4FD1C5",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "1.0.4",
-      "versionDate": "2026-07-11T21:39:49Z",
-      "versionDescription": "One-tap interception + new app icon",
-      "size": 9219361,
-      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.4/app-unsigned.ipa",
+      "version": "1.0.5",
+      "versionDate": "2026-07-12T02:37:53Z",
+      "versionDescription": "Fix stale pause on manual open, app name Breathe Pause, new icon",
+      "size": 9219425,
+      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.5/app-unsigned.ipa",
       "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2026-07-12T02:37:53Z",
+          "localizedDescription": "Fix stale pause on manual open, app name Breathe Pause, new icon",
+          "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.5/app-unsigned.ipa",
+          "size": 9219425,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.0.4",
           "date": "2026-07-11T21:39:49Z",
