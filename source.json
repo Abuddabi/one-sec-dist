@@ -13,12 +13,20 @@
       "tintColor": "4FD1C5",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "1.0.7",
-      "versionDate": "2026-07-12T03:37:24Z",
-      "versionDescription": "Fix interception: use textSync (was reading a Promise)",
-      "size": 9233496,
-      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.7/app-unsigned.ipa",
+      "version": "1.0.8",
+      "versionDate": "2026-07-12T04:09:21Z",
+      "versionDescription": "Remove Open When Run toggle: single foreground(.dynamic) mode",
+      "size": 9232951,
+      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.8/app-unsigned.ipa",
       "versions": [
+        {
+          "version": "1.0.8",
+          "date": "2026-07-12T04:09:21Z",
+          "localizedDescription": "Remove Open When Run toggle: single foreground(.dynamic) mode",
+          "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.8/app-unsigned.ipa",
+          "size": 9232951,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.0.7",
           "date": "2026-07-12T03:37:24Z",
