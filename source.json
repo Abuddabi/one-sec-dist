@@ -13,12 +13,20 @@
       "tintColor": "4FD1C5",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "1.0.8",
-      "versionDate": "2026-07-12T04:09:21Z",
-      "versionDescription": "Remove Open When Run toggle: single foreground(.dynamic) mode",
-      "size": 9232951,
-      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.8/app-unsigned.ipa",
+      "version": "1.0.9",
+      "versionDate": "2026-07-12T04:49:02Z",
+      "versionDescription": "Neutral gradient on background: no settings flash before pause",
+      "size": 9232874,
+      "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.9/app-unsigned.ipa",
       "versions": [
+        {
+          "version": "1.0.9",
+          "date": "2026-07-12T04:49:02Z",
+          "localizedDescription": "Neutral gradient on background: no settings flash before pause",
+          "downloadURL": "https://github.com/Abuddabi/one-sec-dist/releases/download/v1.0.9/app-unsigned.ipa",
+          "size": 9232874,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.0.8",
           "date": "2026-07-12T04:09:21Z",
